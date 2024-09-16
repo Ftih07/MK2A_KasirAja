@@ -1,0 +1,10 @@
+D:\kasirajah\kasirajah\bin\Debug\kasirajah.exe.config
+D:\kasirajah\kasirajah\bin\Debug\kasirajah.exe
+D:\kasirajah\kasirajah\bin\Debug\kasirajah.pdb
+D:\kasirajah\kasirajah\obj\Debug\kasirajah.csproj.AssemblyReference.cache
+D:\kasirajah\kasirajah\obj\Debug\kasirajah.Form1.resources
+D:\kasirajah\kasirajah\obj\Debug\kasirajah.Properties.Resources.resources
+D:\kasirajah\kasirajah\obj\Debug\kasirajah.csproj.GenerateResource.cache
+D:\kasirajah\kasirajah\obj\Debug\kasirajah.csproj.CoreCompileInputs.cache
+D:\kasirajah\kasirajah\obj\Debug\kasirajah.exe
+D:\kasirajah\kasirajah\obj\Debug\kasirajah.pdb
